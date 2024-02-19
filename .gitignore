@@ -1,0 +1,20 @@
+# Arquivos de compilação
+*.class
+
+# Arquivos gerados pelo IntelliJ IDEA
+out/
+.idea/
+
+# Arquivos de configuração específicos do IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Logs e arquivos temporários
+*.log
+*.swp
+*~
+
+# Arquivos de configuração do Maven
+target/
